@@ -2,8 +2,8 @@
 To solve Ubuntu 16.4 install nginx in a no network environment
 
 ## Library Version
-pcre version 8.41
-zlib version 1.2.11
+pcre version 8.41,
+zlib version 1.2.11,
 nginx version 1.12.2
 
 ## Install on Ubuntu
